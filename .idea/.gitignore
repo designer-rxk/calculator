@@ -1,0 +1,8 @@
+# Default ignored files
+/../../cinetic./.idea/shelf/
+/../../cinetic./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../cinetic./.idea/httpRequests/
+# Datasource local storage ignored files
+/../../cinetic./.idea/dataSources/
+/../../cinetic./.idea/dataSources.local.xml
