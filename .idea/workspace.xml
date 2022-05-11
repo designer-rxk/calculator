@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df3ad134-749e-4fd6-92e2-85c19585108c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DigitButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperationButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cinetic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Calculator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +73,9 @@
       <workItem from="1646054711284" duration="8450000" />
       <workItem from="1646063252125" duration="22000" />
       <workItem from="1646063274936" duration="7000" />
+      <workItem from="1646669604169" duration="730000" />
+      <workItem from="1646725124618" duration="40000" />
+      <workItem from="1652102578041" duration="26000" />
     </task>
     <servers />
   </component>
